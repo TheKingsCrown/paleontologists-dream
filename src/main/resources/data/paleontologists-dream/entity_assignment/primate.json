@@ -1,0 +1,12 @@
+{
+  "syringe": "paleontologists-dream:primate_syringe",
+  "entities": [
+    "minecraft:pillager",
+    "minecraft:vindicator",
+    "minecraft:evoker",
+    "minecraft:witch",
+    "minecraft:villager",
+    "minecraft:wandering_trader",
+    "minecraft:player"
+  ]
+}

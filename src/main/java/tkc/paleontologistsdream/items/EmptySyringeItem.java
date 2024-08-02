@@ -26,6 +26,7 @@ public class EmptySyringeItem extends Item {
             ItemStack itemStack = getSyringeType(entityID);
             if (itemStack == null) {
                 user.sendMessage(Text.of("Cannot extract blood from subject"), true);
+                return ActionResult.PASS;
             }
             ItemUsage.exchangeStack(stack, user, itemStack);
 

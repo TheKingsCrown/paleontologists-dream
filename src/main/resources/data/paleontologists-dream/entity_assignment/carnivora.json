@@ -1,0 +1,11 @@
+{
+  "syringe": "paleontologists-dream:carnivora_syringe",
+  "entities": [
+    "minecraft:fox",
+    "minecraft:wolf",
+    "minecraft:cat",
+    "minecraft:ocelot",
+    "minecraft:polar_bear",
+    "minecraft:panda"
+  ]
+}
