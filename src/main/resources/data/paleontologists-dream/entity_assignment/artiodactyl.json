@@ -1,0 +1,12 @@
+{
+  "syringe": "paleontologists-dream:artiodactyl_syringe",
+  "entities": [
+    "minecraft:sheep",
+    "minecraft:cow",
+    "minecraft:pig",
+    "minecraft:goat",
+    "minecraft:llama",
+    "minecraft:trader_llama",
+    "minecraft:dolphin"
+  ]
+}
